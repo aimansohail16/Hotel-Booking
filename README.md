@@ -7,8 +7,6 @@ This project presents a comprehensive analysis of hotel booking data, focusing o
 - Explore and clean real-world hotel booking data
 - Perform in-depth Exploratory Data Analysis (EDA)
 - Visualize key trends and relationships
-- Build predictive models for booking cancellations
-- Evaluate model performance using suitable metrics
 
 ## Tools & Technologies
 
