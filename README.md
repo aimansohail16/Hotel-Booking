@@ -1,6 +1,6 @@
 # Hotel Booking Analysis
 
-This project presents a comprehensive analysis of hotel booking data, focusing on understanding customer behavior, identifying cancellation patterns, and applying machine learning models to make accurate predictions. It is ideal for hotel managers, data analysts, or researchers looking to gain insights into booking trends.
+This project presents a comprehensive analysis of hotel booking data, focusing on understanding customer behavior, identifying cancellation patterns, and outliers.
 
 ## Objectives
 
